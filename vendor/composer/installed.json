@@ -28,7 +28,7 @@
             },
             "time": "2022-12-22T02:29:54+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "CodeIgniter\\CodingStandard\\": "src/"
@@ -95,7 +95,7 @@
                     "dev-main": "3.x-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Composer\\Pcre\\": "src"
@@ -168,7 +168,7 @@
                     "dev-main": "3.x-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Composer\\Semver\\": "src"
@@ -250,7 +250,7 @@
             },
             "time": "2024-05-06T16:37:16+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Composer\\XdebugHandler\\": "src"
@@ -326,7 +326,7 @@
             },
             "time": "2024-09-05T10:15:52+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Doctrine\\Common\\Annotations\\": "lib/Doctrine/Common/Annotations"
@@ -404,7 +404,7 @@
             },
             "time": "2025-04-07T20:06:18+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Doctrine\\Deprecations\\": "src"
@@ -452,7 +452,7 @@
             },
             "time": "2022-12-30T00:23:10+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Doctrine\\Instantiator\\": "src/Doctrine/Instantiator/"
@@ -523,7 +523,7 @@
             },
             "time": "2024-02-05T11:35:39+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Doctrine\\Common\\Lexer\\": "src"
@@ -615,7 +615,7 @@
             },
             "time": "2024-11-21T13:46:39+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Faker\\": "src/Faker/"
@@ -701,7 +701,7 @@
                 "php-cs-fixer"
             ],
             "type": "application",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "PhpCsFixer\\": "src/"
@@ -766,7 +766,7 @@
             },
             "time": "2024-04-26T14:20:09+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "files": [
                     "init.php"
@@ -834,7 +834,7 @@
             },
             "time": "2025-05-06T19:29:36+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Laminas\\Escaper\\": "src/"
@@ -895,7 +895,7 @@
                     "dev-master": "1.6.x-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-0": {
                     "org\\bovigo\\vfs\\": "src/main/php"
@@ -951,7 +951,7 @@
             },
             "time": "2025-04-29T12:36:36+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "files": [
                     "src/DeepCopy/deep_copy.php"
@@ -1019,7 +1019,7 @@
                     "dev-develop": "3.x-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Nexus\\CsConfig\\": "src/"
@@ -1055,17 +1055,17 @@
         },
         {
             "name": "nikic/php-parser",
-            "version": "v5.4.0",
-            "version_normalized": "5.4.0.0",
+            "version": "v5.5.0",
+            "version_normalized": "5.5.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/nikic/PHP-Parser.git",
-                "reference": "447a020a1f875a434d62f2a401f53b82a396e494"
+                "reference": "ae59794362fe85e051a58ad36b289443f57be7a9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/447a020a1f875a434d62f2a401f53b82a396e494",
-                "reference": "447a020a1f875a434d62f2a401f53b82a396e494",
+                "url": "https://api.github.com/repos/nikic/PHP-Parser/zipball/ae59794362fe85e051a58ad36b289443f57be7a9",
+                "reference": "ae59794362fe85e051a58ad36b289443f57be7a9",
                 "shasum": ""
             },
             "require": {
@@ -1078,7 +1078,7 @@
                 "ircmaxell/php-yacc": "^0.0.7",
                 "phpunit/phpunit": "^9.0"
             },
-            "time": "2024-12-30T11:07:19+00:00",
+            "time": "2025-05-31T08:24:38+00:00",
             "bin": [
                 "bin/php-parse"
             ],
@@ -1088,7 +1088,7 @@
                     "dev-master": "5.0-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "PhpParser\\": "lib/PhpParser"
@@ -1110,7 +1110,7 @@
             ],
             "support": {
                 "issues": "https://github.com/nikic/PHP-Parser/issues",
-                "source": "https://github.com/nikic/PHP-Parser/tree/v5.4.0"
+                "source": "https://github.com/nikic/PHP-Parser/tree/v5.5.0"
             },
             "install-path": "../nikic/php-parser"
         },
@@ -1144,7 +1144,7 @@
                     "dev-master": "2.0.x-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -1204,7 +1204,7 @@
             },
             "time": "2022-02-21T01:04:05+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -1282,7 +1282,7 @@
                     "dev-main": "9.2.x-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -1347,7 +1347,7 @@
                     "dev-master": "3.0-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -1414,7 +1414,7 @@
                     "dev-master": "3.1-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -1476,7 +1476,7 @@
                     "dev-master": "2.0-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -1538,7 +1538,7 @@
                     "dev-master": "5.0-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -1630,7 +1630,7 @@
                     "dev-master": "9.6-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "files": [
                     "src/Framework/Assert/Functions.php"
@@ -1715,7 +1715,7 @@
             },
             "time": "2025-04-30T15:16:02+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Predis\\": "src/"
@@ -1776,7 +1776,7 @@
                     "dev-master": "1.0.x-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Psr\\Cache\\": "src/"
@@ -1828,7 +1828,7 @@
                     "dev-master": "2.0.x-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Psr\\Container\\": "src/"
@@ -1884,7 +1884,7 @@
                     "dev-master": "1.0.x-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Psr\\EventDispatcher\\": "src/"
@@ -1937,7 +1937,7 @@
                     "dev-master": "1.1.x-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Psr\\Log\\": "Psr/Log/"
@@ -1993,7 +1993,7 @@
                     "dev-master": "1.0-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -2052,7 +2052,7 @@
                     "dev-master": "1.0-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -2111,7 +2111,7 @@
                     "dev-master": "2.0-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -2171,7 +2171,7 @@
                     "dev-master": "4.0-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -2247,7 +2247,7 @@
                     "dev-master": "2.0-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -2307,7 +2307,7 @@
                     "dev-master": "4.0-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -2378,7 +2378,7 @@
                     "dev-master": "5.1-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -2443,7 +2443,7 @@
                     "dev-master": "4.0-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -2527,7 +2527,7 @@
                     "dev-master": "5.0-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -2589,7 +2589,7 @@
                     "dev-master": "1.0-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -2650,7 +2650,7 @@
                     "dev-master": "4.0-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -2708,7 +2708,7 @@
                     "dev-master": "2.0-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -2766,7 +2766,7 @@
                     "dev-master": "4.0-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -2832,7 +2832,7 @@
                     "dev-main": "3.0-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -2889,7 +2889,7 @@
                     "dev-master": "3.2-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -2945,7 +2945,7 @@
                     "dev-master": "3.0-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
@@ -2978,17 +2978,17 @@
         },
         {
             "name": "symfony/console",
-            "version": "v6.4.21",
-            "version_normalized": "6.4.21.0",
+            "version": "v6.4.22",
+            "version_normalized": "6.4.22.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/console.git",
-                "reference": "a3011c7b7adb58d89f6c0d822abb641d7a5f9719"
+                "reference": "7d29659bc3c9d8e9a34e2c3414ef9e9e003e6cf3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/console/zipball/a3011c7b7adb58d89f6c0d822abb641d7a5f9719",
-                "reference": "a3011c7b7adb58d89f6c0d822abb641d7a5f9719",
+                "url": "https://api.github.com/repos/symfony/console/zipball/7d29659bc3c9d8e9a34e2c3414ef9e9e003e6cf3",
+                "reference": "7d29659bc3c9d8e9a34e2c3414ef9e9e003e6cf3",
                 "shasum": ""
             },
             "require": {
@@ -3021,9 +3021,9 @@
                 "symfony/stopwatch": "^5.4|^6.0|^7.0",
                 "symfony/var-dumper": "^5.4|^6.0|^7.0"
             },
-            "time": "2025-04-07T15:42:41+00:00",
+            "time": "2025-05-07T07:05:04+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Symfony\\Component\\Console\\": ""
@@ -3055,7 +3055,7 @@
                 "terminal"
             ],
             "support": {
-                "source": "https://github.com/symfony/console/tree/v6.4.21"
+                "source": "https://github.com/symfony/console/tree/v6.4.22"
             },
             "funding": [
                 {
@@ -3075,23 +3075,23 @@
         },
         {
             "name": "symfony/deprecation-contracts",
-            "version": "v3.5.1",
-            "version_normalized": "3.5.1.0",
+            "version": "v3.6.0",
+            "version_normalized": "3.6.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/deprecation-contracts.git",
-                "reference": "74c71c939a79f7d5bf3c1ce9f5ea37ba0114c6f6"
+                "reference": "63afe740e99a13ba87ec199bb07bbdee937a5b62"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/deprecation-contracts/zipball/74c71c939a79f7d5bf3c1ce9f5ea37ba0114c6f6",
-                "reference": "74c71c939a79f7d5bf3c1ce9f5ea37ba0114c6f6",
+                "url": "https://api.github.com/repos/symfony/deprecation-contracts/zipball/63afe740e99a13ba87ec199bb07bbdee937a5b62",
+                "reference": "63afe740e99a13ba87ec199bb07bbdee937a5b62",
                 "shasum": ""
             },
             "require": {
                 "php": ">=8.1"
             },
-            "time": "2024-09-25T14:20:29+00:00",
+            "time": "2024-09-25T14:21:43+00:00",
             "type": "library",
             "extra": {
                 "thanks": {
@@ -3099,10 +3099,10 @@
                     "name": "symfony/contracts"
                 },
                 "branch-alias": {
-                    "dev-main": "3.5-dev"
+                    "dev-main": "3.6-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "files": [
                     "function.php"
@@ -3125,7 +3125,7 @@
             "description": "A generic function and convention to trigger deprecation notices",
             "homepage": "https://symfony.com",
             "support": {
-                "source": "https://github.com/symfony/deprecation-contracts/tree/v3.5.1"
+                "source": "https://github.com/symfony/deprecation-contracts/tree/v3.6.0"
             },
             "funding": [
                 {
@@ -3182,7 +3182,7 @@
             },
             "time": "2024-09-25T14:18:03+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Symfony\\Component\\EventDispatcher\\": ""
@@ -3228,24 +3228,24 @@
         },
         {
             "name": "symfony/event-dispatcher-contracts",
-            "version": "v3.5.1",
-            "version_normalized": "3.5.1.0",
+            "version": "v3.6.0",
+            "version_normalized": "3.6.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/event-dispatcher-contracts.git",
-                "reference": "7642f5e970b672283b7823222ae8ef8bbc160b9f"
+                "reference": "59eb412e93815df44f05f342958efa9f46b1e586"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/event-dispatcher-contracts/zipball/7642f5e970b672283b7823222ae8ef8bbc160b9f",
-                "reference": "7642f5e970b672283b7823222ae8ef8bbc160b9f",
+                "url": "https://api.github.com/repos/symfony/event-dispatcher-contracts/zipball/59eb412e93815df44f05f342958efa9f46b1e586",
+                "reference": "59eb412e93815df44f05f342958efa9f46b1e586",
                 "shasum": ""
             },
             "require": {
                 "php": ">=8.1",
                 "psr/event-dispatcher": "^1"
             },
-            "time": "2024-09-25T14:20:29+00:00",
+            "time": "2024-09-25T14:21:43+00:00",
             "type": "library",
             "extra": {
                 "thanks": {
@@ -3253,10 +3253,10 @@
                     "name": "symfony/contracts"
                 },
                 "branch-alias": {
-                    "dev-main": "3.5-dev"
+                    "dev-main": "3.6-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Symfony\\Contracts\\EventDispatcher\\": ""
@@ -3287,7 +3287,7 @@
                 "standards"
             ],
             "support": {
-                "source": "https://github.com/symfony/event-dispatcher-contracts/tree/v3.5.1"
+                "source": "https://github.com/symfony/event-dispatcher-contracts/tree/v3.6.0"
             },
             "funding": [
                 {
@@ -3330,7 +3330,7 @@
             },
             "time": "2024-10-25T15:07:50+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Symfony\\Component\\Filesystem\\": ""
@@ -3397,7 +3397,7 @@
             },
             "time": "2024-12-29T13:51:37+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Symfony\\Component\\Finder\\": ""
@@ -3462,7 +3462,7 @@
             },
             "time": "2024-11-20T10:57:02+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Symfony\\Component\\OptionsResolver\\": ""
@@ -3543,7 +3543,7 @@
                     "name": "symfony/polyfill"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "files": [
                     "bootstrap.php"
@@ -3622,7 +3622,7 @@
                     "name": "symfony/polyfill"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "files": [
                     "bootstrap.php"
@@ -3703,7 +3703,7 @@
                     "name": "symfony/polyfill"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "files": [
                     "bootstrap.php"
@@ -3791,7 +3791,7 @@
                     "name": "symfony/polyfill"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "files": [
                     "bootstrap.php"
@@ -3868,7 +3868,7 @@
                     "name": "symfony/polyfill"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "files": [
                     "bootstrap.php"
@@ -3951,7 +3951,7 @@
                     "name": "symfony/polyfill"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "files": [
                     "bootstrap.php"
@@ -4024,7 +4024,7 @@
             },
             "time": "2025-03-10T17:11:00+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Symfony\\Component\\Process\\": ""
@@ -4070,17 +4070,17 @@
         },
         {
             "name": "symfony/service-contracts",
-            "version": "v3.5.1",
-            "version_normalized": "3.5.1.0",
+            "version": "v3.6.0",
+            "version_normalized": "3.6.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/service-contracts.git",
-                "reference": "e53260aabf78fb3d63f8d79d69ece59f80d5eda0"
+                "reference": "f021b05a130d35510bd6b25fe9053c2a8a15d5d4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/service-contracts/zipball/e53260aabf78fb3d63f8d79d69ece59f80d5eda0",
-                "reference": "e53260aabf78fb3d63f8d79d69ece59f80d5eda0",
+                "url": "https://api.github.com/repos/symfony/service-contracts/zipball/f021b05a130d35510bd6b25fe9053c2a8a15d5d4",
+                "reference": "f021b05a130d35510bd6b25fe9053c2a8a15d5d4",
                 "shasum": ""
             },
             "require": {
@@ -4091,7 +4091,7 @@
             "conflict": {
                 "ext-psr": "<1.1|>=2"
             },
-            "time": "2024-09-25T14:20:29+00:00",
+            "time": "2025-04-25T09:37:31+00:00",
             "type": "library",
             "extra": {
                 "thanks": {
@@ -4099,10 +4099,10 @@
                     "name": "symfony/contracts"
                 },
                 "branch-alias": {
-                    "dev-main": "3.5-dev"
+                    "dev-main": "3.6-dev"
                 }
             },
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Symfony\\Contracts\\Service\\": ""
@@ -4136,7 +4136,7 @@
                 "standards"
             ],
             "support": {
-                "source": "https://github.com/symfony/service-contracts/tree/v3.5.1"
+                "source": "https://github.com/symfony/service-contracts/tree/v3.6.0"
             },
             "funding": [
                 {
@@ -4175,7 +4175,7 @@
             },
             "time": "2025-02-21T10:06:30+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "psr-4": {
                     "Symfony\\Component\\Stopwatch\\": ""
@@ -4221,17 +4221,17 @@
         },
         {
             "name": "symfony/string",
-            "version": "v7.2.6",
-            "version_normalized": "7.2.6.0",
+            "version": "v7.3.0",
+            "version_normalized": "7.3.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/string.git",
-                "reference": "a214fe7d62bd4df2a76447c67c6b26e1d5e74931"
+                "reference": "f3570b8c61ca887a9e2938e85cb6458515d2b125"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/string/zipball/a214fe7d62bd4df2a76447c67c6b26e1d5e74931",
-                "reference": "a214fe7d62bd4df2a76447c67c6b26e1d5e74931",
+                "url": "https://api.github.com/repos/symfony/string/zipball/f3570b8c61ca887a9e2938e85cb6458515d2b125",
+                "reference": "f3570b8c61ca887a9e2938e85cb6458515d2b125",
                 "shasum": ""
             },
             "require": {
@@ -4252,9 +4252,9 @@
                 "symfony/translation-contracts": "^2.5|^3.0",
                 "symfony/var-exporter": "^6.4|^7.0"
             },
-            "time": "2025-04-20T20:18:16+00:00",
+            "time": "2025-04-20T20:19:01+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "files": [
                     "Resources/functions.php"
@@ -4291,7 +4291,7 @@
                 "utf8"
             ],
             "support": {
-                "source": "https://github.com/symfony/string/tree/v7.2.6"
+                "source": "https://github.com/symfony/string/tree/v7.3.0"
             },
             "funding": [
                 {
@@ -4332,7 +4332,7 @@
             },
             "time": "2024-03-03T12:36:25+00:00",
             "type": "library",
-            "installation-source": "source",
+            "installation-source": "dist",
             "autoload": {
                 "classmap": [
                     "src/"
