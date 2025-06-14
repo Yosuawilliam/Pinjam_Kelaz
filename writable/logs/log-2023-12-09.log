@@ -1,0 +1,41 @@
+INFO - 2023-12-09 11:52:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-09 11:52:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-09 11:52:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-09 18:56:52 --> Undefined variable $ruangan_foto
+in APPPATH\Views\adminPages\lihatRuangan.php on line 126.
+ 1 APPPATH\Views\adminPages\lihatRuangan.php(126): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ruangan_foto', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\lihatRuangan.php', 126)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\lihatRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/lihatRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\LihatRuangan.php(109): view('adminPages/lihatRuangan', [])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\LihatRuangan->lihatRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\LihatRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-09 18:56:56 --> Undefined variable $ruangan_foto
+in APPPATH\Views\adminPages\lihatRuangan.php on line 126.
+ 1 APPPATH\Views\adminPages\lihatRuangan.php(126): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ruangan_foto', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\lihatRuangan.php', 126)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\lihatRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/lihatRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\LihatRuangan.php(109): view('adminPages/lihatRuangan', [])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\LihatRuangan->lihatRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\LihatRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-09 19:04:20 --> Undefined variable $ruangan_foto
+in APPPATH\Views\adminPages\lihatRuangan.php on line 126.
+ 1 APPPATH\Views\adminPages\lihatRuangan.php(126): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ruangan_foto', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\lihatRuangan.php', 126)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\lihatRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/lihatRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\LihatRuangan.php(109): view('adminPages/lihatRuangan', [])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\LihatRuangan->lihatRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\LihatRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-09 12:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-09 12:13:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

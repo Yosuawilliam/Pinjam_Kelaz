@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="App\Tests\UserControllerTest" file="D:\TubesWebPro-main\tests\Test_WBT\UserControllerTest.php" tests="1" assertions="0" errors="1" warnings="0" failures="0" skipped="0" time="0.030875">
+    <testcase name="testAddAccountWithPostMethod" class="App\Tests\UserControllerTest" classname="App.Tests.UserControllerTest" file="D:\TubesWebPro-main\tests\Test_WBT\UserControllerTest.php" line="30" assertions="0" time="0.030875">
+      <error type="Error">App\Tests\UserControllerTest::testAddAccountWithPostMethod
+Error: Call to a member function getMethod() on null
+
+D:\TubesWebPro-main\app\Controllers\Register.php:24
+D:\TubesWebPro-main\tests\Test_WBT\UserControllerTest.php:48</error>
+    </testcase>
+  </testsuite>
+</testsuites>

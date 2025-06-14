@@ -1,0 +1,52 @@
+ERROR - 2025-06-02 23:45:54 --> Error connecting to the database: mysqli_sql_exception: No connection could be made because the target machine actively refused it in D:\TubesWebPro-main\system\Database\MySQLi\Connection.php:173
+Stack trace:
+#0 D:\TubesWebPro-main\system\Database\MySQLi\Connection.php(173): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'tubes_webpro', 3306, '', 0)
+#1 D:\TubesWebPro-main\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 D:\TubesWebPro-main\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 D:\TubesWebPro-main\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\TubesWebPro-main\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\TubesWebPro-main\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 D:\TubesWebPro-main\app\Controllers\Index.php(24): CodeIgniter\BaseModel->findAll()
+#7 D:\TubesWebPro-main\system\CodeIgniter.php(932): App\Controllers\Index->index()
+#8 D:\TubesWebPro-main\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Index))
+#9 D:\TubesWebPro-main\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\TubesWebPro-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 D:\TubesWebPro-main\system\Commands\Server\rewrite.php(47): require_once('D:\\TubesWebPro-...')
+#12 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No connection could be made because the target machine actively refused it in D:\TubesWebPro-main\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 D:\TubesWebPro-main\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 D:\TubesWebPro-main\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 D:\TubesWebPro-main\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 D:\TubesWebPro-main\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 D:\TubesWebPro-main\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 D:\TubesWebPro-main\app\Controllers\Index.php(24): CodeIgniter\BaseModel->findAll()
+#6 D:\TubesWebPro-main\system\CodeIgniter.php(932): App\Controllers\Index->index()
+#7 D:\TubesWebPro-main\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Index))
+#8 D:\TubesWebPro-main\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\TubesWebPro-main\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\TubesWebPro-main\system\Commands\Server\rewrite.php(47): require_once('D:\\TubesWebPro-...')
+#11 {main}
+CRITICAL - 2025-06-02 23:45:54 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `ruangan`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\Index.php(24): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Index->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Index))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\TubesWebPro-main\\public\\index.php')
+INFO - 2025-06-02 23:46:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-02 16:46:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-02 16:48:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-02 17:02:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-02 17:26:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-02 17:27:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-02 17:27:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-06-02 17:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

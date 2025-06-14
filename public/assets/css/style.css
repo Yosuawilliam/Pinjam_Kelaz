@@ -1,0 +1,71 @@
+/* CSS for size height em */
+.height-em-1 {
+    height: 1em;
+}
+.height-em-2 {
+    height: 2em;
+}
+.height-em-3 {
+    height: 3em;
+}
+.height-em-4 {
+    height: 4em;
+}
+.height-em-5 {
+    height: 5em;
+}
+/* CSS for navbar at the top */
+.navbar {
+    background-color: transparent;
+    transition: background-color 0.100s ease-in-out;
+}
+.navbar-scrolled-10 {
+    /* background-color: rgb(255, 255, 255); */
+    background-color: #861c1e;
+    opacity: 10%;
+}
+.navbar-scrolled-20 {
+    /* background-color: rgb(255, 255, 255); */
+    background-color: #861c1e;
+    opacity: 20%;
+}
+.navbar-scrolled-30 {
+    /* background-color: rgb(255, 255, 255); */
+    background-color: #861c1e;
+    opacity: 30%;
+}
+.navbar-scrolled-40 {
+    /* background-color: rgb(255, 255, 255); */
+    background-color: #861c1e;
+    opacity: 40%;
+}
+.navbar-scrolled-50 {
+    /* background-color: rgb(255, 255, 255); */
+    background-color: #861c1e;
+    opacity: 50%;
+}
+.navbar-scrolled-60 {
+    /* background-color: rgb(255, 255, 255); */
+    background-color: #861c1e;
+    opacity: 60%;
+}
+.navbar-scrolled-70 {
+    /* background-color: rgb(255, 255, 255); */
+    background-color: #861c1e;
+    opacity: 70%;
+}
+.navbar-scrolled-80 {
+    /* background-color: rgb(255, 255, 255); */
+    background-color: #861c1e;
+    opacity: 80%;
+}
+.navbar-scrolled-90 {
+    /* background-color: rgb(255, 255, 255); */
+    background-color: #861c1e;
+    opacity: 90%;
+}
+.navbar-scrolled-100 {
+    /* background-color: rgb(255, 255, 255); */
+    background-color: #861c1e;
+    opacity: 100%;
+}

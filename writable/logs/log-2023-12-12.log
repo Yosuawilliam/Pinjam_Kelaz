@@ -1,0 +1,1333 @@
+CRITICAL - 2023-12-12 02:34:54 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 76.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:34:56 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 76.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:34:57 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 76.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:34:57 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 76.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:34:57 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 76.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:34:57 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 76.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:34:57 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 76.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:34:57 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 76.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:34:58 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 76.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:34:58 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 76.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:34:58 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 76.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:34:58 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 76.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:34:58 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 76.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:34:59 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 76.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:34:59 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 76.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:34:59 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 76.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:36:25 --> Trying to access array offset on value of type null
+in APPPATH\Views\adminPages\semuaRuangan.php on line 123.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 123)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(85): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:36:25 --> Trying to access array offset on value of type null
+in APPPATH\Views\adminPages\semuaRuangan.php on line 123.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 123)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(85): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:36:26 --> Trying to access array offset on value of type null
+in APPPATH\Views\adminPages\semuaRuangan.php on line 123.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 123)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(85): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:36:26 --> Trying to access array offset on value of type null
+in APPPATH\Views\adminPages\semuaRuangan.php on line 123.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 123)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(85): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:37:35 --> Trying to access array offset on value of type null
+in APPPATH\Views\adminPages\semuaRuangan.php on line 123.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 123)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(85): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:37:36 --> Trying to access array offset on value of type null
+in APPPATH\Views\adminPages\semuaRuangan.php on line 123.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 123)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(85): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:37:36 --> Trying to access array offset on value of type null
+in APPPATH\Views\adminPages\semuaRuangan.php on line 123.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 123)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(85): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:37:36 --> Trying to access array offset on value of type null
+in APPPATH\Views\adminPages\semuaRuangan.php on line 123.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 123)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(85): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:37:54 --> Trying to access array offset on value of type null
+in APPPATH\Views\adminPages\semuaRuangan.php on line 123.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 123)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(85): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:37:55 --> Trying to access array offset on value of type null
+in APPPATH\Views\adminPages\semuaRuangan.php on line 123.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 123)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(85): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:37:55 --> Trying to access array offset on value of type null
+in APPPATH\Views\adminPages\semuaRuangan.php on line 123.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 123)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(85): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:37:55 --> Trying to access array offset on value of type null
+in APPPATH\Views\adminPages\semuaRuangan.php on line 123.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 123)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(85): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:37:55 --> Trying to access array offset on value of type null
+in APPPATH\Views\adminPages\semuaRuangan.php on line 123.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 123)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(85): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:37:56 --> Trying to access array offset on value of type null
+in APPPATH\Views\adminPages\semuaRuangan.php on line 123.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 123)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(85): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:37:56 --> Trying to access array offset on value of type null
+in APPPATH\Views\adminPages\semuaRuangan.php on line 123.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 123)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(85): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:37:56 --> Trying to access array offset on value of type null
+in APPPATH\Views\adminPages\semuaRuangan.php on line 123.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 123)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(85): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:38:49 --> Trying to access array offset on value of type null
+in APPPATH\Views\adminPages\semuaRuangan.php on line 123.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 123)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(85): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:38:49 --> Trying to access array offset on value of type null
+in APPPATH\Views\adminPages\semuaRuangan.php on line 123.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 123)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(85): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:38:49 --> Trying to access array offset on value of type null
+in APPPATH\Views\adminPages\semuaRuangan.php on line 123.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(123): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 123)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(85): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:44:30 --> syntax error, unexpected token "endforeach"
+in APPPATH\Views\adminPages\semuaRuangan.php on line 202.
+ 1 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 3 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(90): view('adminPages/semuaRuangan', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:46:06 --> Array to string conversion
+in APPPATH\Views\adminPages\semuaRuangan.php on line 120.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 120)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(90): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:46:07 --> Array to string conversion
+in APPPATH\Views\adminPages\semuaRuangan.php on line 120.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 120)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(90): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:46:07 --> Array to string conversion
+in APPPATH\Views\adminPages\semuaRuangan.php on line 120.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 120)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(90): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:46:07 --> Array to string conversion
+in APPPATH\Views\adminPages\semuaRuangan.php on line 120.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 120)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(90): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:47:01 --> Array to string conversion
+in APPPATH\Views\adminPages\semuaRuangan.php on line 120.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 120)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(90): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:47:12 --> Array to string conversion
+in APPPATH\Views\adminPages\semuaRuangan.php on line 120.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 120)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(90): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:47:13 --> Array to string conversion
+in APPPATH\Views\adminPages\semuaRuangan.php on line 120.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 120)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(90): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:47:13 --> Array to string conversion
+in APPPATH\Views\adminPages\semuaRuangan.php on line 120.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 120)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(90): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:47:13 --> Array to string conversion
+in APPPATH\Views\adminPages\semuaRuangan.php on line 120.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 120)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(90): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:47:13 --> Array to string conversion
+in APPPATH\Views\adminPages\semuaRuangan.php on line 120.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 120)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(90): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:47:14 --> Array to string conversion
+in APPPATH\Views\adminPages\semuaRuangan.php on line 120.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 120)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(90): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:47:35 --> Array to string conversion
+in APPPATH\Views\adminPages\semuaRuangan.php on line 120.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 120)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(90): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:47:35 --> Array to string conversion
+in APPPATH\Views\adminPages\semuaRuangan.php on line 120.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 120)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(90): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:47:36 --> Array to string conversion
+in APPPATH\Views\adminPages\semuaRuangan.php on line 120.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 120)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(90): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:47:36 --> Array to string conversion
+in APPPATH\Views\adminPages\semuaRuangan.php on line 120.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(120): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 120)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(90): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:49:01 --> Undefined variable $jadwalRuangan
+in APPPATH\Controllers\AdminControllers\LihatRuangan.php on line 104.
+ 1 APPPATH\Controllers\AdminControllers\LihatRuangan.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jadwalRuangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\LihatRuangan.php', 104)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\LihatRuangan->lihatRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\LihatRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:50:38 --> Undefined variable $jadwalRuangan
+in APPPATH\Controllers\AdminControllers\LihatRuangan.php on line 104.
+ 1 APPPATH\Controllers\AdminControllers\LihatRuangan.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jadwalRuangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\LihatRuangan.php', 104)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\LihatRuangan->lihatRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\LihatRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:50:42 --> Undefined variable $jadwalRuangan
+in APPPATH\Controllers\AdminControllers\LihatRuangan.php on line 104.
+ 1 APPPATH\Controllers\AdminControllers\LihatRuangan.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jadwalRuangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\LihatRuangan.php', 104)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\LihatRuangan->lihatRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\LihatRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 02:51:49 --> Undefined variable $jadwalRuangan
+in APPPATH\Controllers\AdminControllers\LihatRuangan.php on line 106.
+ 1 APPPATH\Controllers\AdminControllers\LihatRuangan.php(106): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jadwalRuangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\LihatRuangan.php', 106)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\LihatRuangan->lihatRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\LihatRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 03:41:36 --> Undefined variable $jadwal_ruangan
+in APPPATH\Views\adminPages\semuaRuangan.php on line 131.
+ 1 APPPATH\Views\adminPages\semuaRuangan.php(131): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jadwal_ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php', 131)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\adminPages\\semuaRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('adminPages/semuaRuangan', [], true)
+ 5 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(155): view('adminPages/semuaRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 03:49:00 --> Undefined array key "jam_mulai"
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 42.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jam_mulai"', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 03:49:00 --> Undefined array key "jam_mulai"
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 42.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jam_mulai"', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 03:49:00 --> Undefined array key "jam_mulai"
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 42.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jam_mulai"', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 03:49:01 --> Undefined array key "jam_mulai"
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 42.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "jam_mulai"', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 42)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 04:21:41 --> Unsupported operand types: string + string
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 04:21:43 --> Unsupported operand types: string + string
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 04:58:22 --> Undefined array key 3
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 38.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 3', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 04:59:20 --> Undefined array key 2
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 38.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 2', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 04:59:21 --> Undefined array key 2
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 38.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 2', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 04:59:21 --> Undefined array key 2
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 38.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 2', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 04:59:21 --> Undefined array key 2
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 38.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 2', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 04:59:21 --> Undefined array key 2
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 38.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 2', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 04:59:21 --> Undefined array key 2
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 38.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 2', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 04:59:21 --> Undefined array key 2
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 38.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 2', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 04:59:22 --> Undefined array key 2
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 38.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 2', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 05:01:52 --> Undefined array key 3
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 38.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 3', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 05:01:52 --> Undefined array key 3
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 38.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 3', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 05:01:52 --> Undefined array key 3
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 38.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 3', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 05:01:53 --> Undefined array key 3
+in APPPATH\Controllers\AdminControllers\SemuaRuangan.php on line 38.
+ 1 APPPATH\Controllers\AdminControllers\SemuaRuangan.php(38): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 3', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\SemuaRuangan.php', 38)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\SemuaRuangan->semuaRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\SemuaRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 05:52:06 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php on line 56.
+ 1 APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\RuanganTidakTerpakai.php', 56)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTidakTerpakai->ruanganTidakTerpakai()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTidakTerpakai))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 05:52:25 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php on line 56.
+ 1 APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\RuanganTidakTerpakai.php', 56)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTidakTerpakai->ruanganTidakTerpakai()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTidakTerpakai))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 05:52:25 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php on line 56.
+ 1 APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\RuanganTidakTerpakai.php', 56)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTidakTerpakai->ruanganTidakTerpakai()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTidakTerpakai))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 05:52:25 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php on line 56.
+ 1 APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\RuanganTidakTerpakai.php', 56)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTidakTerpakai->ruanganTidakTerpakai()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTidakTerpakai))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 05:52:26 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php on line 56.
+ 1 APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\RuanganTidakTerpakai.php', 56)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTidakTerpakai->ruanganTidakTerpakai()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTidakTerpakai))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 05:54:03 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php on line 45.
+ 1 APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\RuanganTidakTerpakai.php', 45)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTidakTerpakai->ruanganTidakTerpakai()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTidakTerpakai))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 05:54:03 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php on line 45.
+ 1 APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\RuanganTidakTerpakai.php', 45)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTidakTerpakai->ruanganTidakTerpakai()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTidakTerpakai))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 05:54:03 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php on line 45.
+ 1 APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\RuanganTidakTerpakai.php', 45)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTidakTerpakai->ruanganTidakTerpakai()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTidakTerpakai))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 05:54:03 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php on line 45.
+ 1 APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\RuanganTidakTerpakai.php', 45)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTidakTerpakai->ruanganTidakTerpakai()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTidakTerpakai))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 05:54:04 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php on line 45.
+ 1 APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\RuanganTidakTerpakai.php', 45)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTidakTerpakai->ruanganTidakTerpakai()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTidakTerpakai))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 05:54:04 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php on line 45.
+ 1 APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\RuanganTidakTerpakai.php', 45)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTidakTerpakai->ruanganTidakTerpakai()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTidakTerpakai))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 06:31:38 --> Cannot use [] for reading
+in APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php on line 65.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTidakTerpakai->ruanganTidakTerpakai()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTidakTerpakai))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 06:31:38 --> Cannot use [] for reading
+in APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php on line 65.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTidakTerpakai->ruanganTidakTerpakai()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTidakTerpakai))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 06:31:38 --> Cannot use [] for reading
+in APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php on line 65.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTidakTerpakai->ruanganTidakTerpakai()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTidakTerpakai))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 06:32:11 --> Cannot use [] for reading
+in APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php on line 65.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTidakTerpakai->ruanganTidakTerpakai()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTidakTerpakai))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 06:32:11 --> Cannot use [] for reading
+in APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php on line 65.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTidakTerpakai->ruanganTidakTerpakai()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTidakTerpakai))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 06:32:11 --> Cannot use [] for reading
+in APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php on line 65.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTidakTerpakai->ruanganTidakTerpakai()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTidakTerpakai))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 06:32:12 --> Cannot use [] for reading
+in APPPATH\Controllers\AdminControllers\RuanganTidakTerpakai.php on line 65.
+ 1 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTidakTerpakai->ruanganTidakTerpakai()
+ 2 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTidakTerpakai))
+ 3 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-12 02:52:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 02:52:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 02:52:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 02:52:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 02:52:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 02:52:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 02:54:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 02:54:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 02:54:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 10:23:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 10:32:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 03:33:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 03:33:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 03:33:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 03:33:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 03:33:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 03:33:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 03:33:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-12 10:40:35 --> Undefined variable $jadwal_Ruangan
+in APPPATH\Controllers\DaftarRuangan.php on line 55.
+ 1 APPPATH\Controllers\DaftarRuangan.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jadwal_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\DaftarRuangan.php', 55)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DaftarRuangan->daftarRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DaftarRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 10:40:35 --> Undefined variable $jadwal_Ruangan
+in APPPATH\Controllers\DaftarRuangan.php on line 55.
+ 1 APPPATH\Controllers\DaftarRuangan.php(55): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $jadwal_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\DaftarRuangan.php', 55)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DaftarRuangan->daftarRuangan()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DaftarRuangan))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-12 10:43:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 11:01:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 11:01:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 11:02:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 11:04:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-12 11:04:48 --> Undefined array key "lantai"
+in APPPATH\Views\daftarRuangan.php on line 143.
+ 1 APPPATH\Views\daftarRuangan.php(143): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "lantai"', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\daftarRuangan.php', 143)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\daftarRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('daftarRuangan', [], true)
+ 5 APPPATH\Controllers\DaftarRuangan.php(90): view('daftarRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DaftarRuangan->daftarRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DaftarRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-12 11:04:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-12 11:04:49 --> Undefined array key "lantai"
+in APPPATH\Views\daftarRuangan.php on line 143.
+ 1 APPPATH\Views\daftarRuangan.php(143): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "lantai"', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\daftarRuangan.php', 143)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\daftarRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('daftarRuangan', [], true)
+ 5 APPPATH\Controllers\DaftarRuangan.php(90): view('daftarRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DaftarRuangan->daftarRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DaftarRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-12 11:05:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 04:41:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 04:41:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 04:41:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 04:41:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 04:42:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 04:42:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 04:42:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 04:58:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 04:58:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 04:58:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 04:58:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 04:58:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 11:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-12 11:58:13 --> Undefined array key "mk_6_7"
+in APPPATH\Views\daftarRuangan.php on line 169.
+ 1 APPPATH\Views\daftarRuangan.php(169): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "mk_6_7"', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\daftarRuangan.php', 169)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\daftarRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('daftarRuangan', [], true)
+ 5 APPPATH\Controllers\DaftarRuangan.php(90): view('daftarRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DaftarRuangan->daftarRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DaftarRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-12 11:58:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 11:59:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 11:59:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 11:59:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:00:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:01:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:01:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:09:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:09:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:11:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:11:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:11:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:11:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:13:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:14:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:14:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:15:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:15:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:17:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:17:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:17:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:17:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:17:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:19:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:19:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:19:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:20:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:20:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:21:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:21:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:27:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:27:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-12 12:27:42 --> Invalid file: "detailRuangan.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('detailRuangan.php')
+ 2 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('detailRuangan', [], true)
+ 3 APPPATH\Controllers\DetailRuangan.php(31): view('detailRuangan')
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DetailRuangan->detailRuangan()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetailRuangan))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-12 12:28:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:28:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:35:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:35:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:40:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:40:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 12:41:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:02:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:03:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:05:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:05:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:13:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:20:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:22:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-12 13:41:56 --> Array to string conversion
+in APPPATH\Views\pinjamRuangan.php on line 131.
+ 1 APPPATH\Views\pinjamRuangan.php(131): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\pinjamRuangan.php', 131)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\pinjamRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pinjamRuangan', [], true)
+ 5 APPPATH\Controllers\PinjamRuangan.php(138): view('pinjamRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PinjamRuangan->pinjamRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PinjamRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 13:42:15 --> Undefined array key 0
+in APPPATH\Views\pinjamRuangan.php on line 131.
+ 1 APPPATH\Views\pinjamRuangan.php(131): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\pinjamRuangan.php', 131)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\pinjamRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pinjamRuangan', [], true)
+ 5 APPPATH\Controllers\PinjamRuangan.php(138): view('pinjamRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PinjamRuangan->pinjamRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PinjamRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 13:42:45 --> Undefined array key 0
+in APPPATH\Views\pinjamRuangan.php on line 131.
+ 1 APPPATH\Views\pinjamRuangan.php(131): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\pinjamRuangan.php', 131)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\pinjamRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pinjamRuangan', [], true)
+ 5 APPPATH\Controllers\PinjamRuangan.php(138): view('pinjamRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PinjamRuangan->pinjamRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PinjamRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-12 13:51:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:52:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:54:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-12 13:55:36 --> Array to string conversion
+in APPPATH\Views\pinjamRuangan.php on line 130.
+ 1 APPPATH\Views\pinjamRuangan.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\pinjamRuangan.php', 130)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\pinjamRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pinjamRuangan', [], true)
+ 5 APPPATH\Controllers\PinjamRuangan.php(138): view('pinjamRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PinjamRuangan->pinjamRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PinjamRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 13:56:08 --> Undefined array key "data_tanggal"
+in APPPATH\Views\pinjamRuangan.php on line 130.
+ 1 APPPATH\Views\pinjamRuangan.php(130): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "data_tanggal"', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\pinjamRuangan.php', 130)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\pinjamRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pinjamRuangan', [], true)
+ 5 APPPATH\Controllers\PinjamRuangan.php(138): view('pinjamRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PinjamRuangan->pinjamRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PinjamRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-12 16:26:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 09:30:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 09:30:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:30:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:31:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 09:41:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 16:41:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-12 17:22:24 --> Undefined variable $user_nim
+in APPPATH\Views\pinjamRuangan.php on line 732.
+ 1 APPPATH\Views\pinjamRuangan.php(732): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user_nim', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\pinjamRuangan.php', 732)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\pinjamRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pinjamRuangan', [], true)
+ 5 APPPATH\Controllers\PinjamRuangan.php(138): view('pinjamRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PinjamRuangan->pinjamRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PinjamRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-12 17:22:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 10:22:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 10:22:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 10:22:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 17:22:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-12 17:22:40 --> Undefined variable $user_nim
+in APPPATH\Views\pinjamRuangan.php on line 732.
+ 1 APPPATH\Views\pinjamRuangan.php(732): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user_nim', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\pinjamRuangan.php', 732)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\pinjamRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pinjamRuangan', [], true)
+ 5 APPPATH\Controllers\PinjamRuangan.php(138): view('pinjamRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PinjamRuangan->pinjamRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PinjamRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 17:25:33 --> Undefined variable $user_id
+in APPPATH\Views\pinjamRuangan.php on line 732.
+ 1 APPPATH\Views\pinjamRuangan.php(732): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user_id', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\pinjamRuangan.php', 732)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\pinjamRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pinjamRuangan', [], true)
+ 5 APPPATH\Controllers\PinjamRuangan.php(138): view('pinjamRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PinjamRuangan->pinjamRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PinjamRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-12 17:26:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 17:27:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 17:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-12 17:27:43 --> Unsupported operand types: string + string
+in APPPATH\Views\pinjamRuangan.php on line 741.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('pinjamRuangan', [], true)
+ 4 APPPATH\Controllers\PinjamRuangan.php(138): view('pinjamRuangan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\PinjamRuangan->pinjamRuangan()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\PinjamRuangan))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-12 17:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 18:04:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 18:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 18:05:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 18:05:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 18:06:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 18:06:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 18:06:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 18:08:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 20:31:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:31:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 20:31:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-12 20:31:54 --> Undefined variable $user_id
+in APPPATH\Views\detailRuangan.php on line 52.
+ 1 APPPATH\Views\detailRuangan.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user_id', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\detailRuangan.php', 52)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\detailRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('detailRuangan', [], true)
+ 5 APPPATH\Controllers\DetailRuangan.php(138): view('detailRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DetailRuangan->detailRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetailRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-12 20:31:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-12 20:31:59 --> Undefined variable $user_id
+in APPPATH\Views\detailRuangan.php on line 52.
+ 1 APPPATH\Views\detailRuangan.php(52): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user_id', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\detailRuangan.php', 52)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\detailRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('detailRuangan', [], true)
+ 5 APPPATH\Controllers\DetailRuangan.php(138): view('detailRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DetailRuangan->detailRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetailRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-12 20:32:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 20:32:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:32:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:32:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:33:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:33:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:33:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:33:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:33:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 20:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:33:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 20:33:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-12 20:33:55 --> Undefined variable $user_id
+in APPPATH\Views\detailRuangan.php on line 50.
+ 1 APPPATH\Views\detailRuangan.php(50): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user_id', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\detailRuangan.php', 50)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\TubesWebPro\\app\\Views\\detailRuangan.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1180): CodeIgniter\View\View->render('detailRuangan', [], true)
+ 5 APPPATH\Controllers\DetailRuangan.php(138): view('detailRuangan', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DetailRuangan->detailRuangan()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DetailRuangan))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-12 20:34:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 20:34:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:34:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:34:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:34:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:34:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:34:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-12 20:35:04 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\RuanganTerpakai.php on line 147.
+ 1 APPPATH\Controllers\AdminControllers\RuanganTerpakai.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\RuanganTerpakai.php', 147)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTerpakai->ruanganTerpakai()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTerpakai))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 20:35:09 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\RuanganTerpakai.php on line 147.
+ 1 APPPATH\Controllers\AdminControllers\RuanganTerpakai.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\RuanganTerpakai.php', 147)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTerpakai->ruanganTerpakai()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTerpakai))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 20:35:12 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\RuanganTerpakai.php on line 147.
+ 1 APPPATH\Controllers\AdminControllers\RuanganTerpakai.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\RuanganTerpakai.php', 147)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTerpakai->ruanganTerpakai()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTerpakai))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-12 13:35:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:35:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-12 20:35:46 --> Undefined variable $detail_Ruangan
+in APPPATH\Controllers\AdminControllers\RuanganTerpakai.php on line 147.
+ 1 APPPATH\Controllers\AdminControllers\RuanganTerpakai.php(147): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $detail_Ruangan', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\AdminControllers\\RuanganTerpakai.php', 147)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\AdminControllers\RuanganTerpakai->ruanganTerpakai()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminControllers\RuanganTerpakai))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-12 13:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:51:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:51:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:55:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:56:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-12 13:56:29 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\Login.php on line 51.
+ 1 APPPATH\Controllers\Login.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\Login.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->login()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+CRITICAL - 2023-12-12 13:58:24 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\Login.php on line 51.
+ 1 APPPATH\Controllers\Login.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\Login.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->login()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-12 13:58:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-12 13:58:35 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\Login.php on line 51.
+ 1 APPPATH\Controllers\Login.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\Login.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->login()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-12 13:59:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:59:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-12 13:59:14 --> Trying to access array offset on value of type null
+in APPPATH\Controllers\Login.php on line 51.
+ 1 APPPATH\Controllers\Login.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\TubesWebPro\\app\\Controllers\\Login.php', 51)
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\Login->login()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\xampp\\htdocs\\TubesWebPro\\public\\index.php')
+INFO - 2023-12-12 13:59:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 13:59:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:00:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:00:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:00:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:00:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:00:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:01:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:02:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:02:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:02:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 21:02:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:02:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:03:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 21:03:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 21:03:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 21:03:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 21:04:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:04:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:04:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:04:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:04:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:05:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:08:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:08:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:09:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:09:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:09:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:09:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:09:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:09:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:09:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 14:09:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 21:09:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 21:09:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-12 21:09:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
