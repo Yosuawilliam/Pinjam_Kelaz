@@ -1,0 +1,19 @@
+# prometheus.yml
+global:
+  scrape_interval: 15s # Interval pengambilan data default
+
+scrape_configs:
+  # 1. Monitor Prometheus itu sendiri
+  - job_name: 'prometheus'
+    static_configs:
+      - targets: ['localhost:9090']
+
+  # 2. Monitor Apache melalui Apache Exporter
+  - job_name: 'apache'
+    static_configs:
+      - targets: ['apache_exporter:9117']
+
+  # 3. Monitor MariaDB melalui MySQLd Exporter
+  - job_name: 'mariadb'
+    static_configs:
+      - targets: ['mysqld_exporter:9104']

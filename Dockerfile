@@ -20,6 +20,7 @@ COPY apache-config.conf /etc/apache2/sites-available/000-default.conf
 
 # Aktifkan mod_rewrite untuk URL yang bersih (diperlukan oleh CodeIgniter)
 RUN a2enmod rewrite
+RUN a2enmod status
 
 # Salin semua file proyek ke direktori kerja di dalam container
 COPY . .
