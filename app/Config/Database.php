@@ -26,10 +26,10 @@ class Database extends Config
      */
     public array $default = [
         'DSN'      => '',
-        'hostname' => 'localhost',
-        'username' => '',
-        'password' => '',
-        'database' => '',
+        'hostname' => 'db',
+        'username' => 'devpops',
+        'password' => 'secret',
+        'database' => 'tubes_webpro',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',
         'pConnect' => false,
