@@ -1,0 +1,68 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pinjam-kelaz-deployment
+  labels:
+    app: pinjam-kelaz
+spec:
+  replicas: 3  # Jumlah pod yang diinginkan
+  selector:
+    matchLabels:
+      app: pinjam-kelaz
+  template:
+    metadata:
+      labels:
+        app: pinjam-kelaz
+    spec:
+      containers:
+        - name: pinjam-kelaz-container
+          image: hafidnaoya/pinjam_kelaz:20250615   # Docker image yang digunakan
+          ports:
+            - containerPort: 8080  # Sesuaikan dengan port yang digunakan oleh aplikasi
+          env:
+            - name: JAVA_OPTS
+              value: "-Xmx512m"  # Atur sesuai dengan kebutuhan JVM (opsional)
+          volumeMounts:
+            - name: app-storage
+              mountPath: /var/www/html/storage  # Sesuaikan dengan lokasi direktori storage aplikasi
+      volumes:
+        - name: app-storage
+          emptyDir: {}  # Bisa diganti dengan persistent volume jika diperlukan
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: pinjam-kelaz-service
+spec:
+  selector:
+    app: pinjam-kelaz
+  ports:
+    - protocol: TCP
+      port: 8080  # Port untuk mengakses aplikasi melalui service
+      targetPort: 8080  # Port yang ada di dalam container
+  type: LoadBalancer  # Gunakan LoadBalancer jika Anda ingin expose aplikasi ke publik
+---
+# Persistent Volume untuk aplikasi pinjam_kelaz
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: pinjam-kelaz-pv
+spec:
+  capacity:
+    storage: 5Gi  # Kapasitas storage yang diinginkan
+  accessModes:
+    - ReadWriteOnce
+  hostPath:
+    path: /mnt/data/pinjam-kelaz  # Path di node tempat data disimpan
+---
+# Persistent Volume Claim untuk aplikasi pinjam_kelaz
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: pinjam-kelaz-pvc
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 5Gi  # Ukuran storage yang dibutuhkan
