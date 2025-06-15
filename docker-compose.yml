@@ -1,14 +1,14 @@
 services:
-  # Service untuk aplikasi PHP & Apache
   app:
     build:
       context: .
       dockerfile: Dockerfile
     container_name: pinjam_kelaz-app
     ports:
-      - "8080:80" # Map port 8080 di lokal ke port 80 di container
+      - "8080:80" # 80 container
     volumes:
       - .:/var/www/html 
+      - vendor_data:/var/www/html/vendor
       - writable_data:/var/www/html/writable
     depends_on:
       - db 
@@ -35,3 +35,4 @@ services:
 volumes:
   db_data:
   writable_data:
+  vendor_data:
